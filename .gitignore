@@ -1,0 +1,8 @@
+.venv/
+.ipynb_checkpoints/
+
+# others
+*.pyc
+*.swo
+*.swp
+**/__pycache__/**
