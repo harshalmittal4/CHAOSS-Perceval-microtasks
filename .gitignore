@@ -1,7 +1,7 @@
 .venv/
 .ipynb_checkpoints/
 
-# others
+#others 
 *.pyc
 *.swo
 *.swp
