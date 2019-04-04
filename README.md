@@ -1,4 +1,4 @@
-# CHAOSS-MetricsPerceval_microtask
+# CHAOSS-PercevalMetrics-microtasks
 This repository contains microtasks to achieved for CHAOSS GSoC Idea #2 :<br/> **Implementing CHAOSS metrics with Perceval [Details](https://github.com/chaoss/wg-gmd/issues/81)**
 
 ### #Microtask 0
