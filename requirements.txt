@@ -1,4 +1,4 @@
-perceval
+# the associated versions numbers not shown, pip will automatically install them.
 pandas
 matplotlib
 seaborn
