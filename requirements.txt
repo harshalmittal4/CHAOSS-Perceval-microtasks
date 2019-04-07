@@ -1,0 +1,8 @@
+perceval
+pandas
+matplotlib
+seaborn
+datetime
+tabulate
+requests
+pprint
