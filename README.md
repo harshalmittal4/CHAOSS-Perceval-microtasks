@@ -1,6 +1,8 @@
-# CHAOSS-PercevalMetrics-microtasks
+# CHAOSS-Perceval-microtasks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harshalmittal4/CHAOSS-Perceval-microtasks/master)
 
-This repository contains microtasks to achieved for CHAOSS GSoC Idea #2 :<br/> **Implementing CHAOSS metrics with Perceval [Details](https://github.com/chaoss/wg-gmd/issues/81)**
+This repository contains microtasks to achieved for CHAOSS GSoC Idea #2 :<br/> **Implementing CHAOSS metrics with Perceval [Details](https://github.com/chaoss/wg-gmd/issues/81)**.<br/>
+([Launch with Binder](https://mybinder.org/v2/gh/harshalmittal4/CHAOSS-Perceval-microtasks/master))
 
 ***
 
@@ -50,3 +52,25 @@ The task is completed [here](./microtask5).
 >Perform any other analysis you may find interesting, based on the Perceval data you collected.
 
 To be updated.
+
+### To produce the results : 
+1) Clone the repo. In the root of the directory, create a virtualenv and set   it to use python3 (in case default is python2):
+```
+$ python3 -m virtualenv venv
+$ virtualenv --python=/path/to/yourpython3 venv
+```
+
+2) Activate the virtualenv.
+```
+source ./venv/bin/activate
+```
+3) Install the required packages.
+```
+$ pip install -r requirements.txt
+```
+4) Launch the jupyter kernel.
+```
+$ jupyter-notebook
+```
+
+The `readme.md` in each folder contains further information for that microtask.
