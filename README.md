@@ -53,9 +53,13 @@ The task is completed [here](./microtask5).
 
 The task is completed [here](./microtask6).
 
+***
+
 ### #Microtask 7-8
 
 Contributions uptil now are included [here](./microtask7-8).
+
+***
 
 ### To produce the results : 
 1) Clone the repo. In the root of the directory, create a virtualenv and set   it to use python3 (in case default is python2):
