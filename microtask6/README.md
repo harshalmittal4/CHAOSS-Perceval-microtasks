@@ -8,7 +8,7 @@
 ### The results are as follows:
 
 #### Count of commits modifying each file
-<img src="files.png" >
+<img src="commit_count.png" >
 
 ***
 
