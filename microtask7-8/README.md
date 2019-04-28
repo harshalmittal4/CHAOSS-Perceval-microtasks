@@ -1,13 +1,13 @@
 ## Microtask7-8
 
-My contributions to grimoirelab-perceval, wg-gmd, and some other CHAOSS projects uptil now: 
+My contributions to grimoirelab-perceval, wg-evolution, and some other CHAOSS projects uptil now: 
 
 |  PR | [Repo] Description | Status |
 | :---: | :--- | :---: |
 |  [#508](https://github.com/chaoss/grimoirelab-perceval/pull/508) | [grimoirelab-perceval] Handle Ghost user in pull_request comments and add corresponding tests | Merged |
 |  [#509](https://github.com/chaoss/grimoirelab-perceval/pull/509) | [grimoirelab-perceval] Update help messages for --from-date and --to-date params | Merged|
 |  [#513](https://github.com/chaoss/grimoirelab-perceval/pull/513 "#513") | [grimoirelab-perceval] Add options for the param --category in help message for each backend | Merged |
-|  [#132](https://github.com/chaoss/wg-gmd/pull/132) | [wg-evolution] Update wg-gmd Readme to match standards for CHAOSS | Merged |
+|  [#132](https://github.com/chaoss/wg-gmd/pull/132) | [wg-evolution] Update wg-evolution Readme to match standards for CHAOSS | Merged |
 |  [#46](https://github.com/chaoss/grimoirelab-perceval-mozilla/pull/46) | [grimoirelab-perceval-mozilla] [backends] Include available category options in the helptext | Merged |
 |  [#23](https://github.com/chaoss/grimoirelab-perceval-opnfv/pull/23) | [grimoirelab-perceval-opnfv] [functest] Include cateory options in helptext | Merged |
 |  [#18](https://github.com/chaoss/grimoirelab-perceval-puppet/pull/18) | [grimoirelab-perceval-puppet] [backend] Include available category options in the helptext | Merged |
@@ -16,7 +16,7 @@ My contributions to grimoirelab-perceval, wg-gmd, and some other CHAOSS projects
 |  [#136](https://github.com/chaoss/metrics/pull/136) | [metrics] Minor improvements in contributors file | Merged |
 |  [#122](https://github.com/chaoss/wg-gmd/pull/122) | [wg-evolution] Fixes some typos | Merged |
 |  [#135](https://github.com/chaoss/wg-gmd/pull/135) | [wg-evolution] Update copyright date under license | Merged |
-|  [#518](https://github.com/chaoss/grimoirelab-perceval/pull/518) | [grimoirelab-perceval] [github] Include commit comments in Github backend | Open |
+|  [#518](https://github.com/chaoss/grimoirelab-perceval/pull/518) | [grimoirelab-perceval] [github] Include commit comments in Github backend and corresponding tests | Open |
 
 
 
